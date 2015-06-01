@@ -1,0 +1,58 @@
+Initialize engine version: 5.0.1f1 (5a2e8fe35a68)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4000 (ID=0x166)
+    Vendor:   Intel
+    VRAM:     128 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Yann\Documents\EPFL\3eme\ProjetBachelor\EyeTracking\Unity\EyeDefense\Builds\EyeDefense_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Yann\Documents\EPFL\3eme\ProjetBachelor\EyeTracking\Unity\EyeDefense\Builds\EyeDefense_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Yann\Documents\EPFL\3eme\ProjetBachelor\EyeTracking\Unity\EyeDefense\Builds\EyeDefense_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Yann\Documents\EPFL\3eme\ProjetBachelor\EyeTracking\Unity\EyeDefense\Builds\EyeDefense_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Yann\Documents\EPFL\3eme\ProjetBachelor\EyeTracking\Unity\EyeDefense\Builds\EyeDefense_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Yann\Documents\EPFL\3eme\ProjetBachelor\EyeTracking\Unity\EyeDefense\Builds\EyeDefense_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Yann\Documents\EPFL\3eme\ProjetBachelor\EyeTracking\Unity\EyeDefense\Builds\EyeDefense_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\Yann\Documents\EPFL\3eme\ProjetBachelor\EyeTracking\Unity\EyeDefense\Builds\EyeDefense_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Yann\Documents\EPFL\3eme\ProjetBachelor\EyeTracking\Unity\EyeDefense\Builds\EyeDefense_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Yann\Documents\EPFL\3eme\ProjetBachelor\EyeTracking\Unity\EyeDefense\Builds\EyeDefense_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Yann\Documents\EPFL\3eme\ProjetBachelor\EyeTracking\Unity\EyeDefense\Builds\EyeDefense_Data\Managed\Cloudstoyv5.dll (this message is harmless)
+Loading C:\Users\Yann\Documents\EPFL\3eme\ProjetBachelor\EyeTracking\Unity\EyeDefense\Builds\EyeDefense_Data\Managed\Cloudstoyv5.dll into Unity Child Domain
+Platform assembly: C:\Users\Yann\Documents\EPFL\3eme\ProjetBachelor\EyeTracking\Unity\EyeDefense\Builds\EyeDefense_Data\Managed\Newtonsoft.Json.dll (this message is harmless)
+Loading C:\Users\Yann\Documents\EPFL\3eme\ProjetBachelor\EyeTracking\Unity\EyeDefense\Builds\EyeDefense_Data\Managed\Newtonsoft.Json.dll into Unity Child Domain
+Platform assembly: C:\Users\Yann\Documents\EPFL\3eme\ProjetBachelor\EyeTracking\Unity\EyeDefense\Builds\EyeDefense_Data\Managed\TETCSharpClient.dll (this message is harmless)
+Loading C:\Users\Yann\Documents\EPFL\3eme\ProjetBachelor\EyeTracking\Unity\EyeDefense\Builds\EyeDefense_Data\Managed\TETCSharpClient.dll into Unity Child Domain
+- Completed reload, in  0.058 seconds
+desktop: 1920x1080 50Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\Yann\Documents\EPFL\3eme\ProjetBachelor\EyeTracking\Unity\EyeDefense\Builds\EyeDefense_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Yann\Documents\EPFL\3eme\ProjetBachelor\EyeTracking\Unity\EyeDefense\Builds\EyeDefense_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\Yann\Documents\EPFL\3eme\ProjetBachelor\EyeTracking\Unity\EyeDefense\Builds\EyeDefense_Data\Managed\System.Configuration.dll (this message is harmless)
+Platform assembly: C:\Users\Yann\Documents\EPFL\3eme\ProjetBachelor\EyeTracking\Unity\EyeDefense\Builds\EyeDefense_Data\Managed\System.Xml.dll (this message is harmless)
+Platform assembly: C:\Users\Yann\Documents\EPFL\3eme\ProjetBachelor\EyeTracking\Unity\EyeDefense\Builds\EyeDefense_Data\Managed\System.Runtime.Serialization.dll (this message is harmless)
+Platform assembly: C:\Users\Yann\Documents\EPFL\3eme\ProjetBachelor\EyeTracking\Unity\EyeDefense\Builds\EyeDefense_Data\Managed\System.Xml.Linq.dll (this message is harmless)
+Platform assembly: C:\Users\Yann\Documents\EPFL\3eme\ProjetBachelor\EyeTracking\Unity\EyeDefense\Builds\EyeDefense_Data\Managed\System.Data.dll (this message is harmless)
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.382107 ms
+WARNING: Shader Unsupported: 'HeatDistort' - All passes removed
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 641.
+Total: 0.940663 ms (FindLiveObjects: 0.101053 ms CreateObjectMapping: 0.024473 ms MarkObjects: 0.763820 ms  DeleteObjects: 0.050526 ms)
+
+Write file - : C:/Users/Yann/Documents/EPFL/3eme/ProjetBachelor/EyeTracking/Unity/EyeDefense/Builds/EyeDefense_Data/../..//R/heatmap.csv
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 434 -> priority: 1 
+  Thread -> id: 4618 -> priority: 1 
+Generating results
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Generating Heatmap
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
